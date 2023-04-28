@@ -1,3 +1,3 @@
-# Spanish-Wine-Car-Insurance
-This project is about a Spanish Wine or Car Insurance dataset.  I am looking forward to investigating these two sets.
+# Spanish Wine
+This project is about a Spanish Wine dataset.  I am looking forward to investigating this set.
 
