@@ -1,4 +1,4 @@
-## Spanish Wine##
+Spanish Wine
 
 The business problem for this dataset is the quality of the ratings.  I will be investigating how the quality fo the ratings fo the wines affect the price of the wine.  I will also be looking at the body and acidity of the wine.  Those will be compared to the rating of the wine to see if there is a correlation between a rise or fall of those two aspects in comparison with the rating of the wine.  This could lead to a deeper understanding of how to make the wine's rating higher, if those two aspects are changed.
 
